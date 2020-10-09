@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviadpierin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=liviadpierin&show_icons=true&theme=radical" />
+<a href="https://github.com/liviadpierin/liviadpierin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviadpierin&hide=html,css&layout=default&theme=radical&num_langs=3" />
+</a>  
+<a href="https://github.com/liviadpierin/liviadpierin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liviadpierin&show_icons=true&theme=tokyonight" alt="Livia's GitHub Stats" />
+</a>  

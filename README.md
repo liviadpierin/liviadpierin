@@ -1,4 +1,4 @@
-### Hi there 👋
+### It's Livia!! 🤓👩🏼‍💻
 
 <!--
 **liviadpierin/liviadpierin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/liviadpierin/liviadpierin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviadpierin&hide=html,css&layout=default&theme=highcontrast&num_langs=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviadpierin&hide=html,css&layout=default&theme=highcontrast&hide_border=false" />
 </a>  
 <a href="https://github.com/liviadpierin/liviadpierin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liviadpierin&show_icons=true&theme=tokyonight" alt="Livia's GitHub Stats" />

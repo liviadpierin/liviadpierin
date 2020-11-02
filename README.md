@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a full stack developer, currently working more focused on back-end and database technologies.
+
 <a href="https://github.com/liviadpierin/liviadpierin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviadpierin&hide=html,css&layout=compact&theme=highcontrast&hide_border=false" />
 </a>  
